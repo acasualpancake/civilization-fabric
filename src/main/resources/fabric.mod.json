@@ -16,7 +16,7 @@
 	"environment": "server",
 	"entrypoints": {
 		"main": [
-			"net.acasualpancake.ExampleMod"
+			"net.acasualpancake.CivilizationMod"
 		]
 	},
 	"mixins": [
@@ -26,8 +26,7 @@
 		"fabricloader": ">=0.14.19",
 		"minecraft": "~1.16.5",
 		"java": ">=16",
-		"fabric-api": "0.42.0+1.16",
-		"fabric": "0.42.0+1.16"
+		"fabric": ">=0.42.0+1.16"
 	},
 	"suggests": {
 	}
